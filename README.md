@@ -1,2 +1,2 @@
 # Mini-Project
-Customized Facebook-home Page
+React based Customized Facebook-home Page
